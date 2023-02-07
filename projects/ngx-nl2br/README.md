@@ -53,7 +53,7 @@ the `<br />` tag:
 Output:
 
 ```html
-<div><strong>html content</strong><br />nsecond line<br />third line</div>
+<div><strong>html content</strong><br />second line<br />third line</div>
 ```
 
 ### <a name="git"></a>5. Git repository
