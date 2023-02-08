@@ -1,11 +1,22 @@
 {
   "name": "ngx-nl2br",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "peerDependencies": {
     "@angular/common": "^15.0.0",
     "@angular/core": "^15.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
+  },
+  "keywords": [
+    "angular",
+    "nl2br",
+    "pipe"
+  ],
+  "homepage": "https://github.com/hkjeffchan/hkjeffchanNgx/blob/main/projects/ngx-nl2br/README.md",
+  "description": "angular pipe to transform newline to br tag",
+  "author": {
+    "name": "Jeff Chan",
+    "email": "hkjeffchan@gmail.com"
   }
 }

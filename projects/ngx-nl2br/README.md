@@ -1,5 +1,7 @@
 # ngx-nl2br
 
+angular pipe to transform newline to br tag
+
 - [ngx-nl2br](#ngx-nl2br)
     - [1. Description](#1-description)
     - [2. Installation](#2-installation)
