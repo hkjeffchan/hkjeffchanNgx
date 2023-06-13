@@ -1,12 +1,12 @@
 {
   "name": "ngx-nl2br",
-  "version": "1.0.1",
+  "version": "16.0.0",
   "peerDependencies": {
-    "@angular/common": "^15.0.0",
-    "@angular/core": "^15.0.0"
+    "@angular/common": "^16.0.5",
+    "@angular/core": "^16.0.5"
   },
   "dependencies": {
-    "tslib": "^2.3.0"
+    "tslib": "^2.5.3"
   },
   "keywords": [
     "angular",
